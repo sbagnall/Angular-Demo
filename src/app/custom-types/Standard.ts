@@ -1,0 +1,1 @@
+export enum Standard { PAL = 1,	NTSC = 2 }
